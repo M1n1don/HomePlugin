@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23619f7-3b9a-48b8-a9eb-a5083686dd74" name="変更" comment="[Hotfix] 最適化" />
+    <list default="true" id="f23619f7-3b9a-48b8-a9eb-a5083686dd74" name="変更" comment="[Removed] 不要なファイルを削除" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +74,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -122,7 +123,7 @@
       <workItem from="1669128235043" duration="616000" />
       <workItem from="1669128855494" duration="276000" />
       <workItem from="1669129163688" duration="3470000" />
-      <workItem from="1669133243470" duration="26000" />
+      <workItem from="1669133243470" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="初期コミット">
       <created>1669129246131</created>
@@ -180,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669132993857</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[Removed] 不要なファイルを削除">
+      <created>1669133336158</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669133336158</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[Removed] 不要なファイルを削除">
+      <created>1669133354233</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669133354233</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,11 +213,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初期コミット" />
     <MESSAGE value="おわり！！" />
     <MESSAGE value="[Fix] Location==Nullの制御" />
     <MESSAGE value="[Update] アップデート" />
     <MESSAGE value="[Hotfix] 最適化" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Hotfix] 最適化" />
+    <MESSAGE value="[Removed] 不要なファイルを削除" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Removed] 不要なファイルを削除" />
   </component>
 </project>
