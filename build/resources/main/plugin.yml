@@ -1,0 +1,13 @@
+name: HomePlugin
+version: '${version}'
+main: dev.m1n1don.homeplugin.HomePlugin
+api-version: 1.16
+authors: [ Minidon ]
+description: 福舞鯖用(?)
+website: https://github.com/M1n1don/HomePlugin
+
+commands:
+  setspawn:
+    description: スポーンポイントを設定
+  spawn:
+    description: スポーンポイントへテレポート
